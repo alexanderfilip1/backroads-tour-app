@@ -1,8 +1,7 @@
 
 # Backroads Tour 
 
-This travel website for "Backroads Travel Tours" features an engaging homepage with an introduction to the company, highlights key services, and showcases detailed tour packages. It includes dynamic content, a responsive design, and intuitive navigation, providing users with a seamless experience to explore various travel options.
-
+This travel website for "Backroads Travel Tours" features an engaging homepage with an introduction to the company, highlights key services, and showcases detailed tour packages. It includes dynamic content, a responsive design, and intuitive navigation, providing users with a seamless experience to explore various travel options. While developing this application, I discovered the power of React, particularly in making the content dynamic and reusing components efficiently.
 
 
 
